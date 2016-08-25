@@ -19,6 +19,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: YouTube
+    url: 'https://www.youtube.com/playlist?list=PLWFNavm4ziF0Vw5yvuQ0F2jc2LDnmWkt9'
+    type: external
 favicon: null
 title: Working Toward the Dream of Playing Baseball at the Next Level
 description: Getting Better EVERY Day.
