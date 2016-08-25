@@ -1,7 +1,18 @@
+layout_spectrum: 0.41028960165567696
+typography_spectrum: 0.36504609417170286
+color:
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  brandStrength: 0.7121513970196247
+  lightness: 0.03771267784759402
+  saturation: 0.007487233029678464
+  rhythmicContrast: 0.8172052446752787
 name: Connor Donohue
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.85445
 navigation:
   - name: YouTube
     url: 'https://www.youtube.com/playlist?list=PLWFNavm4ziF0Vw5yvuQ0F2jc2LDnmWkt9'
@@ -23,10 +34,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors: []
-  brandStrength: 0.3693894527386874
-  lightness: 0.08252875995822251
-  saturation: 0.49448166019283235
-  rhythmicContrast: 0.6417466013226658
 purpose: []
