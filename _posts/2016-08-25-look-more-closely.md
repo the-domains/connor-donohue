@@ -1,17 +1,27 @@
 ---
-datePublished: '2016-08-25T17:05:51.226Z'
 inFeed: true
-author: []
-via: {}
-dateModified: '2016-08-25T17:05:49.631Z'
-title: Look More Closely…
-publisher: {}
+hasPage: false
+inNav: false
+isBasedOnUrl: null
+inLanguage: null
+keywords: []
 description: >-
   Look more closely…what do you notice? A focused player? My pitcher’s
   confidence reflecting in my eyes? Or maybe that I have two different colored
   eyes?
-starred: false
+datePublished: '2016-08-25T19:59:28.598Z'
+dateModified: '2016-08-25T19:35:33.734Z'
+author: []
+via: {}
+title: Look More Closely…
 sourcePath: _posts/2016-08-25-look-more-closely.md
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: true
 _context: 'http://schema.org'
 _type: Article
 
