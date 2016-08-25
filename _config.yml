@@ -1,24 +1,25 @@
-name: Connor Donohue
-favicon: null
-layout_spectrum: 0
 typography_spectrum: 0.85445
-title: Working Toward the Dream of Playing Baseball at the Next Level
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors: []
   brandStrength: 0.3693894527386874
   lightness: 0.08252875995822251
   saturation: 0.49448166019283235
   rhythmicContrast: 0.6417466013226658
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Connor Donohue
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Working Toward the Dream of Playing Baseball at the Next Level
+description: Getting Better EVERY Day.
 purpose: []
