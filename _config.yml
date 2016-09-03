@@ -1,4 +1,28 @@
+name: Connor Donohue
+favicon: null
+layout_spectrum: 0.99789
 typography_spectrum: 0.36504609417170286
+navigation:
+  - name: YouTube
+    url: 'https://www.youtube.com/playlist?list=PLWFNavm4ziF0Vw5yvuQ0F2jc2LDnmWkt9'
+    type: external
+  - name: NCSA Recruiting Profile
+    url: 'http://recruit-match.ncsasports.org/clientrms/athletes/2741360?'
+    type: external
+title: Working Toward the Dream of Playing Baseball at the Next Level
+description: Getting Better and Smiling EVERY Day and Step of the Way.
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#2C3E50'
@@ -7,31 +31,7 @@ color:
     - '#3498DB'
     - '#2980B9'
   brandStrength: 0.7121513970196247
-  lightness: 0.03771267784759402
-  saturation: 0.007487233029678464
+  lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 0.8172052446752787
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.41028960165567696
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-name: Connor Donohue
-cta:
-  domain: null
-  bucket: null
-  version: null
-navigation:
-  - name: YouTube
-    url: 'https://www.youtube.com/playlist?list=PLWFNavm4ziF0Vw5yvuQ0F2jc2LDnmWkt9'
-    type: external
-  - name: NCSA Recruiting Profile
-    url: 'http://recruit-match.ncsasports.org/clientrms/athletes/2741360?'
-    type: external
-favicon: null
-title: Working Toward the Dream of Playing Baseball at the Next Level
-description: Getting Better and Smiling EVERY Day and Step of the Way.
 purpose: []
